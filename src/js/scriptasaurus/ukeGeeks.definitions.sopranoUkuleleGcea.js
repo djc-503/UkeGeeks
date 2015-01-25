@@ -12,7 +12,7 @@ ukeGeeks.definitions.sopranoUkuleleGcea = [
 	//  Ab returns G#
 	//  A
 	// -------------------------------------------------------
-	'{define: A frets 2 1 0 0 fingers 1 2 0 0}',
+	'{define: A frets 2 1 0 0 fingers 2 1 0 0}',
 	'{define: Am frets 2 0 0 0 fingers 1 0 0 0}',
 	'{define: A7 frets 0 1 0 0 fingers 0 1 0 0}',
 	'{define: A7sus4 frets 0 2 0 0 fingers 0 2 0 0}',
@@ -25,7 +25,7 @@ ukeGeeks.definitions.sopranoUkuleleGcea = [
 	'{define: Aaug frets 2 1 1 4 fingers 2 1 1 4 add: string 1 fret 1 finger 1 add: string 4 fret 1 finger 1}',
 	'{define: Am6 frets 2 4 2 3 fingers 1 3 1 2 add: string 2 fret 2 finger 1}',
 	'{define: A9 frets 0 1 0 2 fingers 0 1 0 2}',
-	//  A# retruns Bb
+	//  A# returns Bb
 	//  Bb
 	// -------------------------------------------------------
 	'{define: Bb frets 3 2 1 1 fingers 3 2 1 1}',
@@ -94,7 +94,7 @@ ukeGeeks.definitions.sopranoUkuleleGcea = [
 	'{define: D frets 2 2 2 0 fingers 1 1 1 0}',
 	'{define: Dm frets 2 2 1 0 fingers 2 2 1 0}',
 	'{define: Dm6 frets 0 2 1 2 fingers 0 2 1 3}',
-	'{define: D7 frets 2 2 2 3 fingers 1 1 1 2 add: string 4 fret 2 finger 1}',
+	'{define: D7 frets 2 0 2 0 fingers 1 0 2 0}',
 	'{define: D7sus4 frets 2 2 3 3 fingers 1 1 2 3}',
 	'{define: Dm7 frets 2 2 1 3 fingers 2 2 1 3}',
 	'{define: Ddim frets 1 2 1 2 fingers 1 3 2 4}',
